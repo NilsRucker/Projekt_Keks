@@ -43,6 +43,12 @@
     <Compile Include="Projekt_NR3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\nochsonname\nochsonname.csproj">
+      <Project>{9f582fd9-7ca8-4e0a-be7d-daee3f5fe300}</Project>
+      <Name>nochsonname</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
