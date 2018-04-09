@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace nochsonname
 {
-    public class Projekt_NR
+    class Projek_NR2
     {
     }
 }
