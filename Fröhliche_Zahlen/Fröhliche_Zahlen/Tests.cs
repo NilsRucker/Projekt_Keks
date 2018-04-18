@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Fröhliche_Zahlen
 {
-    public class Class1
+    class Tests
     {
+       
     }
 }
