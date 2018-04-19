@@ -2,12 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Fröhliche_Zahlen
+namespace Fröhliche_Zahlen_Test
 {
-    class Tests
+    public class Class1
     {
-       
     }
 }
